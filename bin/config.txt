@@ -1,0 +1,2 @@
+﻿agent_code=123456
+terminal_code=测试网点名测试网点名
